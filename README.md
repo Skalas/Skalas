@@ -42,7 +42,7 @@ I work as an independent consultant, collaborating with organizations like DAI a
 
 📬 Contact
 
-Feel free to reach out to me if you want to chat about AI, tech, or just want to connect! You can email me at [escalas5@gmail.com] or find me on LinkedIn [https://www.linkedin.com/in/skalas/]. Let’s talk! 😎
+Feel free to reach out to me if you want to chat about AI, tech, or just want to connect! You can email me at [escalas5@gmail.com](mailto:escalas5@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/skalas/). Let’s talk! 😎
 
 This version now includes Bash and AWS in the appropriate sections, and Optimization is described as a mathematical tool. Let me know if you’d like any more adjustments! 😊
 
