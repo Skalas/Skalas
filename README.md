@@ -22,13 +22,13 @@ I’ve designed and implemented a data lake solution that enables organizations 
 
 💻 Technologies & Tools
 
-•	Languages: Python 🐍, R 📊, SQL 🔡, Bash 💻
-•	Databases: PostgreSQL, MongoDB 🗄️, Neo4j 🌳
-•	Frameworks: FastAPI 🚀, SQLAlchemy, GeoPandas 🗺️
-•	Cloud & DevOps: GCP ☁️, AWS ☁️, Docker 🐳, Kubernetes
-•	AI: RAG (Retrieval-Augmented Generation) 🤖, Machine Learning models 🧠
-•	Optimization: Mathematical Optimization techniques for problem-solving and efficiency ⚙️
-•	Tools: Poetry for package management 🎶
+  •	Languages: Python 🐍, R 📊, SQL 🔡, Bash 💻
+  •	Databases: PostgreSQL, MongoDB 🗄️, Neo4j 🌳
+  •	Frameworks: FastAPI 🚀, SQLAlchemy, GeoPandas 🗺️
+  •	Cloud & DevOps: GCP ☁️, AWS ☁️, Docker 🐳, Kubernetes
+  •	AI: RAG (Retrieval-Augmented Generation) 🤖, Machine Learning models 🧠
+  •	Optimization: Mathematical Optimization techniques for problem-solving and efficiency ⚙️
+  •	Tools: Poetry for package management 🎶
 
 🤝 Consulting & Contributions
 
