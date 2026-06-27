@@ -1,20 +1,20 @@
 # Skalas 🚀
 
-Hey there! Welcome to my GitHub profile! I’m a consultant who loves working on AI, data analytics, healthcare, education tech, and more. You’ll find projects here ranging from AI-powered solutions to geospatial analysis and telemedicine. Let’s dive in! 👇
+Hey there! Welcome to my GitHub profile! I’m a data/AI leader and consultant working on AI, data analytics, healthcare, education tech, and more. Right now I lead AI strategy for the **Government of El Salvador**. You’ll find projects here ranging from AI-powered solutions to geospatial analysis and telemedicine. Let’s dive in! 👇
 
 ## 🌟 Projects
 
 ### 🏥 AI & Healthcare Platforms
 
-Right now, I’m focused on bringing AI into healthcare systems, especially in telemedicine. I’m working on a project that’s currently being tested by live doctors in a country level effort. We’re planning to expand to 600 doctors soon for the production launch! 🌍💡
+I lead the AI work behind **DoctorSV**, El Salvador’s national telemedicine effort. What started as a pilot tested by live doctors is now in production nationwide, serving a large and growing network of doctors across the country. 🌍💡
 
 ### 📡 5G Network Coverage & Geospatial Analysis
 
-I’ve done some cool work with geospatial analysis, especially around 5G network coverage in a country. The goal is to improve mobile network infrastructure across the country. 📍📶
+I’ve done geospatial analysis around **5G network coverage in El Salvador** — data infrastructure plus resource-allocation algorithms to help improve mobile network infrastructure across the country, under USAID- and EU-funded engagements. 📍📶
 
 ### 🎓 Education Tech
 
-I’m also working on AI-driven education platforms to improve learning outcomes in a country. The project uses GCP and AI to enhance accessibility to education at a national level. 📚💻
+I also lead AI-driven work supporting **El Salvador’s national education reform** — using GCP and AI to improve learning outcomes and broaden access to education at a national level. 📚💻
 
 ### 🛠 Data Lake Implementation
 
@@ -38,7 +38,7 @@ I’ve designed and implemented a data lake solution that enables organizations 
   
 ## 🤝 Consulting & Contributions
 
-I work as an independent consultant, collaborating with organizations like DAI and Cadmus Group. My focus is on building AI and data-driven solutions that have a real-world impact. 🚀
+I work as an independent consultant advising the **Government of El Salvador**. My focus is on building AI and data-driven solutions that have a real-world impact. 🚀
 
 ## 📬 Contact
 
